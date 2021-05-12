@@ -10,3 +10,6 @@ Hello/debug/
 Hello/mainwindow.ui
 Hello/release/
 Hello/ui_mainwindow.h
+
+*.user
+build*/*
