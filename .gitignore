@@ -1,0 +1,12 @@
+Hello/.qmake.stash
+Hello/.vs/
+Hello/Hello.pro.user
+Hello/Hello.sln
+Hello/Hello.vcxproj
+Hello/Hello.vcxproj.filters
+Hello/Hello.vcxproj.user
+Hello/Makefile
+Hello/debug/
+Hello/mainwindow.ui
+Hello/release/
+Hello/ui_mainwindow.h
