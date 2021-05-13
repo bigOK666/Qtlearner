@@ -10,6 +10,12 @@ Hello/debug/
 Hello/mainwindow.ui
 Hello/release/
 Hello/ui_mainwindow.h
+*/debug/
+*/release/
+Makefile
+Makefile.Debug
+Makefile.Release
+*.stash
 
 *.user
 build*/*
