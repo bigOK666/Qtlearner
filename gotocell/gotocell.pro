@@ -16,4 +16,8 @@ INCLUDEPATH += .
 
 # Input
 FORMS += gotocelldialog.ui
-SOURCES += main.cpp
+SOURCES += main.cpp \
+    gotocelldialog.cpp
+
+HEADERS += \
+    gotocelldialog.h
